@@ -1,7 +1,7 @@
 <h1 align="center">Piacere, Andrea!👋</h1>
 
 ###
-
+<!---
 <p align="center">My name is Andrea Celotto and I'm a PhD student in Physics!</p>
 
 <!--- credits to 1999AZZAR for the snake!-->
@@ -10,7 +10,7 @@
 </div>
 
 ###
-
+--->
 <h2 align="left">About me</h2>
 
 ###
