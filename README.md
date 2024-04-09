@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">📚 Currently a PhD student at the Department of Applied Science and Technology of Politecnico di Torino<br>⚗️ Researching in the <a href="https://github.com/SQE-INRiM">Superconducting Quantum Electronics group</a> at the Italian National Metrology Institute (<a href="https://www.inrim.it/it">INRiM</a>) <br>🎓 Graduated in Physics in 2023 at University of Milano-Bicocca with a thesis on Traveling Wave Parametric Amplifiers<br>🎯 Goals: developing metrology tools for superconducting quantum devices such as parametric amplifiers and qubits<br>📭 Feel free to <a href="mailto:andrea.celotto@polito.it">contact me</a>!</p>
+<p align="left">📚 Currently a PhD student at the Department of Applied Science and Technology of Politecnico di Torino<br>⚗️ Researching in the <a href="https://github.com/SQE-INRiM">Superconducting Quantum Electronics group</a> at the Italian National Metrology Institute (<a href="https://www.inrim.it/it">INRiM</a>) <br>🎓 Graduated in Physics in 2023 at <a href="https://github.com/biqute">University of Milano-Bicocca</a> with a thesis on Traveling Wave Parametric Amplifiers<br>🎯 Goals: developing metrology tools for superconducting quantum devices such as parametric amplifiers and qubits<br>📭 Feel free to <a href="mailto:andrea.celotto@polito.it">contact me</a>!</p>
 
 ###
 
