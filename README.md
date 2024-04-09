@@ -2,14 +2,14 @@
 
 ###
 <!---
-<p align="center">My name is Andrea Celotto and I'm a PhD student in Physics!</p>
-
-<!--- credits to 1999AZZAR for the snake!-->
-<div align="center">
-  <img src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" alt="snake" />
-</div>
-
-###
+  <p align="center">My name is Andrea Celotto and I'm a PhD student in Physics!</p>
+  
+  <!--- credits to 1999AZZAR for the snake!-->
+  <div align="center">
+    <img src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" alt="snake" />
+  </div>
+  
+  ###
 -->
 <h2 align="left">About me</h2>
 
